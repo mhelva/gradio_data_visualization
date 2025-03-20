@@ -23,8 +23,7 @@ Make sure you have **Python 3.7+** installed.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/csv-visualizer.git
-cd csv-visualizer
+git clone https://github.com/mhelva/gradio_data_visualization.git
 ```
 
 ## Requirements
@@ -33,15 +32,6 @@ All necessary dependencies are listed in the `requirements.txt` file. To install
 pip install -r requirements.txt
 ```
 
-### Creating or Updating `requirements.txt`
-If you add new dependencies or update existing ones, you can generate a new `requirements.txt` file using:
-```bash
-pip freeze > requirements.txt
-```
-To update and reinstall dependencies, run:
-```bash
-pip install --upgrade -r requirements.txt
-```
 ## File Structure
 ```
 📂 csv-visualizer

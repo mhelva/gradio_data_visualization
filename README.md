@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ## File Structure
 ```
 📂 csv-visualizer
-├── app.py                 # Main Gradio application
+├── gradio_data_viz.py     # Main Gradio application
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Documentation
 ```
